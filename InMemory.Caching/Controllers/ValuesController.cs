@@ -44,6 +44,7 @@ namespace InMemory.Caching.Controllers
 
             });
         }
+
         [HttpGet("getDAte")]
         public DateTime GetDate()
         {
